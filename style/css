@@ -1,1 +1,22 @@
-
+body {
+  background-color: blueviolet;
+}
+.web {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: "100px";
+}
+.-web-{
+  width: "-50px";
+  height: 200px;
+}
+.web h2 {
+  color: white;
+}
+.web h4 {
+  color: white;
+}
+.riwayat{
+  background-color: white;
+}
